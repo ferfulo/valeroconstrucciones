@@ -257,6 +257,9 @@ nav img {
 }
 
 /*Tenemos amplia */
+.indented-list{
+  padding-left: 2em;
+}
 .tenemos-amplia{
   position: relative;
   display: flex;
